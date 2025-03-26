@@ -1,10 +1,3 @@
-# Open-Seq-Me-Automated-Flow-Cell-Handling
-Open-Seq-Me automates the handling of FLO-MIN 114 flow cells, streamlining the process from package opening to insertion into the MinION sequencer. This system enhances efficiency, precision, and biosafety in high-throughput sequencing workflows by eliminating manual handling risks.
-
-Here’s a **README.md** file for your GitHub repository:  
-
----
-
 # **Open-Seq-Me: Automated Flow Cell Handling**  
 
 🚀 **2nd Place – Engineering Design Hackathon 2025**  
@@ -55,7 +48,3 @@ A special thanks to **Dr. Beth Boardman, Prof. Sangram Redkar, Prof. Binil Starl
 
 ## **📩 Contact**  
 For inquiries, feel free to connect on **[GitHub](https://github.com/Sjschhabra)** or **[LinkedIn](https://www.linkedin.com/in/sameerjeet-singh-chhabra-8616021a9/)**.  
-
----
-
-This **README.md** is clear, professional, and informative while keeping it concise. Let me know if you need modifications! 🚀
