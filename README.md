@@ -1,7 +1,7 @@
 # **Open-Seq-Me: Automated Flow Cell Handling**  
 
 🚀 **2nd Place – Engineering Design Hackathon 2025**  
-🏆 **Awarded $5,000 | Sponsored by Los Alamos National Laboratory**  
+🏆 **Awarded $5,000 | Sponsored by Los Alamos National Laboratory | Arizona State University March 2025**  
 
 ## **📌 Project Overview**  
 **Open-Seq-Me** automates the handling of **FLO-MIN 114 flow cells**, eliminating manual steps in sequencing workflows. This system ensures **precision, efficiency, and biosafety** by streamlining the process from **package opening to insertion into the MinION sequencer** (Oxford Nanopore Technologies).  
