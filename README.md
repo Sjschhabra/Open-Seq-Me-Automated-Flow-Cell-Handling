@@ -54,7 +54,7 @@ We built a working prototype combining mechanical automation and robotics to str
 A special thanks to **Dr. Beth Boardman, Prof. Sangram Redkar, Prof. Binil Starly, and Los Alamos National Laboratory** for their guidance and support.  
 
 ## **📩 Contact**  
-For inquiries, feel free to connect on **[GitHub](https://github.com/Sjschhabra)** or **LinkedIn**.  
+For inquiries, feel free to connect on **[GitHub](https://github.com/Sjschhabra)** or **[LinkedIn](https://www.linkedin.com/in/sameerjeet-singh-chhabra-8616021a9/)**.  
 
 ---
 
