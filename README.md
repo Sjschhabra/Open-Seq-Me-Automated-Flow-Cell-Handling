@@ -1,6 +1,6 @@
 # **Open-Seq-Me: Automated Flow Cell Handling**  
 
-**[Link: Certificate & Evidence 📜](https://credid.asu.edu/public/awards/17e9c771-0b7f-4be8-891d-9b6793e6da73?email=schhab18%40asu.edu&tab=details)**
+**Link: [Certificate & Evidence 📜](https://credid.asu.edu/public/awards/17e9c771-0b7f-4be8-891d-9b6793e6da73?email=schhab18%40asu.edu&tab=details)**
 
 🚀 **2nd Place – Engineering Design Hackathon 2025**  
 🏆 **Awarded $5,000 | Sponsored by Los Alamos National Laboratory | Arizona State University March 2025**  
